@@ -1,0 +1,3 @@
+baseURL = "https://mcarey-solstice.github.io/eureka-service"
+languageCode = "en-us"
+title = "Example Eureka Service"
